@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3298e474-f8b2-4d04-af64-097a2d4f99eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/chapter5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/chapter5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/chapter5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/chapter5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +59,8 @@
       <file leaf-file-name="chapter5_3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crawler/chapter5_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1115">
-              <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+            <state relative-caret-position="176">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -295,18 +288,25 @@
       <option name="presentableId" value="Default" />
       <updated>1523414843531</updated>
     </task>
+    <task id="LOCAL-00001" summary="chapter5">
+      <created>1524062133544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524062133545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30283913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30283913" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -329,6 +329,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter5" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/crawler/chapter3.py">
@@ -454,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/chapter5_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1115">
-          <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        <state relative-caret-position="176">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
