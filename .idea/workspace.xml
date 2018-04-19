@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3298e474-f8b2-4d04-af64-097a2d4f99eb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/crawler/chapter6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/chapter6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/chapter6_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +18,7 @@
     <SUITE FILE_PATH="coverage/scrape$chapter4.coverage" NAME="chapter4 Coverage Results" MODIFIED="1523598468503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/scrape$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1523537325914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/scrape$test.coverage" NAME="test Coverage Results" MODIFIED="1524053014563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
+    <SUITE FILE_PATH="coverage/scrape$chapter6_1.coverage" NAME="chapter6_1 Coverage Results" MODIFIED="1524110574718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/scrape$chapter3.coverage" NAME="chapter3 Coverage Results" MODIFIED="1523541036804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
     <SUITE FILE_PATH="coverage/scrape$chapter4_3.coverage" NAME="chapter4_3 Coverage Results" MODIFIED="1523604731084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler" />
   </component>
@@ -23,7 +27,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="176">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -35,7 +39,7 @@
       <file leaf-file-name="chapter5_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/chapter5_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="132">
               <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -47,7 +51,7 @@
       <file leaf-file-name="chapter5_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/chapter5_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="374">
               <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -56,11 +60,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chapter5_3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chapter5_3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/chapter5_3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter6_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/chapter6_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter6_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/chapter6_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter6_3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawler/chapter6_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -71,8 +111,8 @@
       <file leaf-file-name="chapter5_4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawler/chapter5_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="440">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -105,6 +145,9 @@
         <option value="$PROJECT_DIR$/crawler/chapter5_2.py" />
         <option value="$PROJECT_DIR$/crawler/chapter5_4.py" />
         <option value="$PROJECT_DIR$/crawler/chapter5_3.py" />
+        <option value="$PROJECT_DIR$/crawler/chapter6_1.py" />
+        <option value="$PROJECT_DIR$/crawler/chapter6_2.py" />
+        <option value="$PROJECT_DIR$/crawler/chapter6_3.py" />
       </list>
     </option>
   </component>
@@ -164,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.chapter6_1">
     <configuration name="chapter3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrape" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,6 +265,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="chapter6_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/chapter6_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrape" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,39 +303,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="scrape" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/test1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.test" />
       <item itemvalue="Python.chapter3" />
-      <item itemvalue="Python.test1" />
       <item itemvalue="Python.chapter4" />
       <item itemvalue="Python.chapter4_3" />
+      <item itemvalue="Python.chapter6_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chapter6_1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.chapter4_3" />
         <item itemvalue="Python.chapter4" />
         <item itemvalue="Python.chapter3" />
-        <item itemvalue="Python.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -300,15 +343,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30283913" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3170347" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -335,13 +379,60 @@
     <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crawler/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter5_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter5_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter5_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter5_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/crawler/chapter3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2992">
           <caret line="140" column="59" selection-start-line="140" selection-start-column="59" selection-end-line="140" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -363,9 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,9 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3080">
           <caret line="140" column="59" lean-forward="true" selection-start-line="140" selection-start-column="59" selection-end-line="140" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,9 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
           <caret line="140" column="59" selection-start-line="140" selection-start-column="59" selection-end-line="140" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -410,15 +492,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="176">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
@@ -428,7 +507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/chapter5_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="132">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -438,7 +517,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/chapter5_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="374">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -448,8 +527,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crawler/chapter5_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="440">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
@@ -459,7 +538,37 @@
     <entry file="file://$PROJECT_DIR$/crawler/chapter5_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter6_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter6_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/chapter6_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
